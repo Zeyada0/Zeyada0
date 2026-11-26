@@ -15,7 +15,7 @@
 
 </div>
 
-<hr>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@preview/profile-polish/assets/divider.svg" alt="" width="100%"></p>
 
 <p>I'm <strong>Zeyad Ashraf</strong>, a <strong>Data Analyst</strong> and final-year <strong>MIS student at Modern Academy</strong> (Data Analytics &amp; Business Intelligence). I enjoy solving problems with data: cleaning it, analyzing it, and presenting it in dashboards that are easy to read and act on.</p>
 
@@ -30,7 +30,7 @@
 }
 </code></pre>
 
-<hr>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@preview/profile-polish/assets/divider.svg" alt="" width="100%"></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge" alt="Excel">
@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
 
-<hr>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@preview/profile-polish/assets/divider.svg" alt="" width="100%"></p>
 
 <h2 id="featured">Featured Projects</h2>
 
@@ -64,7 +64,19 @@
   <!-- FEATURED-PROJECTS:END -->
 </table>
 
-<hr>
+<h2 id="certifications">Certifications</h2>
+
+<table align="center">
+  <tr><th>Certificate</th><th>Issuer</th><th>Credential</th></tr>
+  <tr><td>⭐ <strong>Advanced Power BI Course</strong></td><td>Mazen Analytics</td><td><a href="https://share.google/VQltRorb0MN433Bp1">Verify</a></td></tr>
+  <tr><td><strong>SQL for Data Analysis</strong></td><td>Mazen Analytics</td><td><a href="https://share.google/R2m9gIRKSI2BBUTb2">Verify</a></td></tr>
+  <tr><td><strong>Excel for Data Analysis</strong></td><td>Mazen Analytics</td><td><a href="https://share.google/eyJhFKIoVCX3WbB1b">Verify</a></td></tr>
+  <tr><td><strong>Tableau</strong></td><td>Mazen Analytics</td><td><a href="https://share.google/nKVAnPhaKaU8Zs7EB">Verify</a></td></tr>
+  <tr><td><strong>Business Fundamentals</strong></td><td>Mazen Analytics</td><td><a href="https://share.google/tou3Sobe3UrDqanfo">Verify</a></td></tr>
+</table>
+
+
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@preview/profile-polish/assets/divider.svg" alt="" width="100%"></p>
 
 <h2 id="workflow">My Data Analysis Workflow</h2>
 
@@ -91,7 +103,7 @@
   <li> Validate totals before reporting</li>
 </ul>
 
-<hr>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@preview/profile-polish/assets/divider.svg" alt="" width="100%"></p>
 
 <h2 id="design">Dashboard Design Principles</h2>
 
@@ -112,7 +124,7 @@
   <img src="https://img.shields.io/badge/Dark-%230B1727-0B1727?style=for-the-badge" alt="Dark">
 </p>
 
-<hr>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@preview/profile-polish/assets/divider.svg" alt="" width="100%"></p>
 
 <h2 align="center">The Data Cycle</h2>
 
@@ -121,4 +133,4 @@
   <p><strong>Messy data ➜ Cleaning ➜ Clean data ➜ Dashboard ➜ Insight!</strong></p>
 </div>
 
-<hr>
+<img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@preview/profile-polish/assets/footer.svg" alt="Thanks for visiting" width="100%">

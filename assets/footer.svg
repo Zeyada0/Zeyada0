@@ -1,0 +1,46 @@
+<svg width="1000" height="220" viewBox="0 0 1000 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fbg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0B1727"/>
+      <stop offset="55%" stop-color="#0F2540"/>
+      <stop offset="100%" stop-color="#1D3252"/>
+    </linearGradient>
+    <linearGradient id="fgold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#B8935A"/>
+      <stop offset="100%" stop-color="#D9BD8A"/>
+    </linearGradient>
+    <style>
+      .ftitle { font-size: 40px; font-weight: 700; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #ffffff; }
+      .fdesc { font-size: 19px; font-weight: 500; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #D9BD8A; }
+      .ftitle, .fdesc { animation: ffadeIn 1.2s ease-in-out forwards; }
+      @keyframes ffadeIn { from { opacity: 0; } to { opacity: 1; } }
+    </style>
+  </defs>
+  <rect width="1000" height="220" fill="url(#fbg)"/>
+  <path fill="url(#fgold)" opacity="0.25">
+    <animate attributeName="d" dur="18s" repeatCount="indefinite" calcMode="spline"
+      keyTimes="0;0.333;0.667;1" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+      values="M0 0L 1000 0L 1000 55Q 750 85 500 55T 0 70 Z;
+              M0 0L 1000 0L 1000 70Q 750 40 500 70T 0 55 Z;
+              M0 0L 1000 0L 1000 45Q 750 75 500 45T 0 75 Z;
+              M0 0L 1000 0L 1000 55Q 750 85 500 55T 0 70 Z"/>
+  </path>
+  <path fill="url(#fgold)" opacity="0.45">
+    <animate attributeName="d" dur="18s" repeatCount="indefinite" calcMode="spline" begin="-9s"
+      keyTimes="0;0.333;0.667;1" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+      values="M0 0L 1000 0L 1000 35Q 750 65 500 35T 0 50 Z;
+              M0 0L 1000 0L 1000 50Q 750 20 500 50T 0 35 Z;
+              M0 0L 1000 0L 1000 25Q 750 55 500 25T 0 55 Z;
+              M0 0L 1000 0L 1000 35Q 750 65 500 35T 0 50 Z"/>
+  </path>
+  <path fill="url(#fgold)" opacity="0.9">
+    <animate attributeName="d" dur="18s" repeatCount="indefinite" calcMode="spline" begin="-4.5s"
+      keyTimes="0;0.333;0.667;1" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+      values="M0 0L 1000 0L 1000 15Q 750 45 500 15T 0 30 Z;
+              M0 0L 1000 0L 1000 30Q 750 0 500 30T 0 15 Z;
+              M0 0L 1000 0L 1000 5Q 750 35 500 5T 0 35 Z;
+              M0 0L 1000 0L 1000 15Q 750 45 500 15T 0 30 Z"/>
+  </path>
+  <text x="500" y="125" text-anchor="middle" class="ftitle">Thanks for visiting!</text>
+  <text x="500" y="163" text-anchor="middle" class="fdesc">Open to Data Analyst &amp; BI opportunities - let's turn data into insights.</text>
+</svg>

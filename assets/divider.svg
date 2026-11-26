@@ -1,0 +1,23 @@
+<svg width="1000" height="28" viewBox="0 0 1000 28" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#B8935A" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#B8935A" stop-opacity="0.9"/>
+      <stop offset="50%" stop-color="#D9BD8A" stop-opacity="1"/>
+      <stop offset="80%" stop-color="#B8935A" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#B8935A" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0%" stop-color="#D9BD8A" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#D9BD8A" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="0" y="13" width="1000" height="2" fill="url(#line)"/>
+  <circle cy="14" r="10" fill="url(#glow)">
+    <animate attributeName="cx" values="120;880;120" dur="10s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+  </circle>
+  <circle cy="14" r="2.5" fill="#D9BD8A">
+    <animate attributeName="cx" values="120;880;120" dur="10s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+  </circle>
+  <rect x="497" y="11" width="6" height="6" fill="#B8935A" transform="rotate(45 500 14)"/>
+</svg>
