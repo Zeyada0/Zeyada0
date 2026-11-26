@@ -15,9 +15,6 @@
 
 <br>
 
-<a href="#user-content-featured"><img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@main/assets/nav-projects.svg" alt="Projects"></a>
-<a href="#user-content-certifications"><img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@main/assets/nav-certifications.svg" alt="Certifications"></a>
-<a href="mailto:zeazoashraf00@gmail.com"><img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@main/assets/nav-contact.svg" alt="Contact"></a>
 
 </div>
 
