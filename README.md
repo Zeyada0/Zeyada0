@@ -15,13 +15,13 @@
 
 <br>
 
-<a href="#user-content-featured"><img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@preview/profile-polish/assets/nav-projects.svg" alt="Projects"></a>
-<a href="#user-content-certifications"><img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@preview/profile-polish/assets/nav-certifications.svg" alt="Certifications"></a>
-<a href="mailto:zeazoashraf00@gmail.com"><img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@preview/profile-polish/assets/nav-contact.svg" alt="Contact"></a>
+<a href="#user-content-featured"><img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@main/assets/nav-projects.svg" alt="Projects"></a>
+<a href="#user-content-certifications"><img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@main/assets/nav-certifications.svg" alt="Certifications"></a>
+<a href="mailto:zeazoashraf00@gmail.com"><img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@main/assets/nav-contact.svg" alt="Contact"></a>
 
 </div>
 
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@preview/profile-polish/assets/divider.svg" alt="" width="100%"></p>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@main/assets/divider.svg" alt="" width="100%"></p>
 
 <p>I'm <strong>Zeyad Ashraf</strong>, a <strong>Data Analyst</strong> and final-year <strong>MIS student at Modern Academy</strong> (Data Analytics &amp; Business Intelligence). I enjoy solving problems with data: cleaning it, analyzing it, and presenting it in dashboards that are easy to read and act on.</p>
 
@@ -36,7 +36,7 @@
 }
 </code></pre>
 
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@preview/profile-polish/assets/divider.svg" alt="" width="100%"></p>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@main/assets/divider.svg" alt="" width="100%"></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge" alt="Excel">
@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
 
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@preview/profile-polish/assets/divider.svg" alt="" width="100%"></p>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@main/assets/divider.svg" alt="" width="100%"></p>
 
 <h2 id="featured">Featured Projects</h2>
 
@@ -82,7 +82,7 @@
 </table>
 
 
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@preview/profile-polish/assets/divider.svg" alt="" width="100%"></p>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@main/assets/divider.svg" alt="" width="100%"></p>
 
 <h2 id="workflow">My Data Analysis Workflow</h2>
 
@@ -109,7 +109,7 @@
   <li> Validate totals before reporting</li>
 </ul>
 
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@preview/profile-polish/assets/divider.svg" alt="" width="100%"></p>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@main/assets/divider.svg" alt="" width="100%"></p>
 
 <h2 id="design">Dashboard Design Principles</h2>
 
@@ -130,4 +130,4 @@
   <img src="https://img.shields.io/badge/Dark-%230B1727-0B1727?style=for-the-badge" alt="Dark">
 </p>
 
-<img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@preview/profile-polish/assets/footer.svg" alt="Thanks for visiting" width="100%">
+<img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@main/assets/footer.svg" alt="Thanks for visiting" width="100%">
