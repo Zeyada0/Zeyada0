@@ -54,6 +54,25 @@
 
 <p align="center"><img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@main/assets/divider.svg" alt="" width="100%"></p>
 
+<h2 id="spotlight">Spotlight</h2>
+
+<p align="center"><a href="https://github.com/Zeyada0/service-insight-suite"><img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@preview-spotlight/assets/spotlight-banner.svg" alt="Project Spotlight: Service Insight Suite" width="100%"></a></p>
+
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@preview-spotlight/assets/spotlight-kpis.svg" alt="Key metrics: $195M revenue, 217K hours, 4.37K clients, +8.8% December growth" width="100%"></p>
+
+<p align="center"><a href="https://github.com/Zeyada0/service-insight-suite"><img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@preview-spotlight/assets/spotlight-dashboard.jpg" alt="Service Insight Suite - Executive Overview" width="90%"></a></p>
+
+<table align="center">
+  <tr><th>Question</th><th>What the data showed</th></tr>
+  <tr><td><strong>Is revenue at risk from one department?</strong></td><td>No. Audit, Management, Advisory, Tax and Legal each bring in about 20% (~$39M).</td></tr>
+  <tr><td><strong>Is it dependent on a few clients?</strong></td><td>No. The largest client is only 0.19% of revenue, a true long tail.</td></tr>
+  <tr><td><strong>Where is the growth opportunity?</strong></td><td>Only 3.5% of clients are High Value while 59.2% are Low Value, a clear up-sell opportunity.</td></tr>
+</table>
+
+<p align="center"><a href="https://github.com/Zeyada0/service-insight-suite"><strong>Read the full case study &rarr;</strong></a></p>
+
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@main/assets/divider.svg" alt="" width="100%"></p>
+
 <h2 id="featured">Featured Projects</h2>
 
 <table align="center">
