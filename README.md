@@ -53,12 +53,13 @@
 
 <table align="center">
   <tr><th>Project</th><th>What it shows</th><th>Tools</th></tr>
+  <!-- FEATURED-PROJECTS:START -->
   <tr><td><a href="https://github.com/Zeyada0/sallah-call-center-dashboard"><strong>Salla Call Center Dashboard</strong></a></td><td>Call-center performance, agent analysis and volume forecasting</td><td>Power BI, DAX</td></tr>
   <tr><td><a href="https://github.com/Zeyada0/hyper-market-sales-dashboard"><strong>Hyper Market Sales Dashboard</strong></a></td><td>Sales, profit, returns, customers and stores across 5 report pages</td><td>Power BI, Power Query</td></tr>
   <tr><td><a href="https://github.com/Zeyada0/service-insight-suite"><strong>Service Insight Suite</strong></a></td><td>Revenue, hours, clients, departments and efficiency</td><td>Power BI, DAX</td></tr>
   <tr><td><a href="https://github.com/Zeyada0/baladna-supply-chain-dashboard"><strong>Baladna Supply Chain Dashboard</strong></a></td><td>Weekly production vs distribution across regions and categories</td><td>Power BI, Power Query</td></tr>
   <tr><td><a href="https://github.com/Zeyada0/adidas-sales-dashboard"><strong>Adidas Sales Dashboard</strong></a></td><td>Sales overview and product analysis</td><td>Power BI, DAX</td></tr>
-
+  <!-- FEATURED-PROJECTS:END -->
 </table>
 
 <hr>
