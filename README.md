@@ -13,6 +13,12 @@
 <a href="mailto:zeazoashraf00@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-B8935A?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://zeyada0.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit_My_Site-0F2540?style=flat" alt="Portfolio"></a>
 
+<br>
+
+<a href="#user-content-featured"><img src="https://img.shields.io/badge/Projects-B8935A?style=flat" alt="Projects"></a>
+<a href="#user-content-certifications"><img src="https://img.shields.io/badge/Certifications-0F2540?style=flat" alt="Certifications"></a>
+<a href="mailto:zeazoashraf00@gmail.com"><img src="https://img.shields.io/badge/Contact-B8935A?style=flat" alt="Contact"></a>
+
 </div>
 
 <p align="center"><img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@preview/profile-polish/assets/divider.svg" alt="" width="100%"></p>
