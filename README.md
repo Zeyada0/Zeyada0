@@ -54,6 +54,12 @@
 
 <p align="center"><img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@main/assets/divider.svg" alt="" width="100%"></p>
 
+<h2 id="services">What I Can Do For You</h2>
+
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@preview-spotlight/assets/services.svg" alt="Data cleaning, dashboard building, analysis and reporting" width="100%"></p>
+
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@main/assets/divider.svg" alt="" width="100%"></p>
+
 <h2 id="spotlight">Spotlight</h2>
 
 <p align="center"><a href="https://github.com/Zeyada0/service-insight-suite"><img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@preview-spotlight/assets/spotlight-banner.svg" alt="Project Spotlight: Service Insight Suite" width="100%"></a></p>
@@ -97,6 +103,12 @@
   <tr><td><strong>Business Fundamentals</strong></td><td>Mazen Analytics</td><td><a href="https://share.google/tou3Sobe3UrDqanfo">Verify</a></td></tr>
 </table>
 
+
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@main/assets/divider.svg" alt="" width="100%"></p>
+
+<h2 id="building">Currently Building</h2>
+
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@preview-spotlight/assets/building.svg" alt="Currently building: a retail sales dashboard in Power BI, and learning Python for data analysis" width="100%"></p>
 
 <p align="center"><img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@main/assets/divider.svg" alt="" width="100%"></p>
 
