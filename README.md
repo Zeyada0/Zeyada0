@@ -59,7 +59,6 @@
   <tr><td><a href="https://github.com/Zeyada0/service-insight-suite"><strong>Service Insight Suite</strong></a></td><td>Revenue, hours, clients, departments and efficiency</td><td>Power BI, DAX</td></tr>
   <tr><td><a href="https://github.com/Zeyada0/baladna-supply-chain-dashboard"><strong>Baladna Supply Chain Dashboard</strong></a></td><td>Weekly production vs distribution across regions and categories</td><td>Power BI, Power Query</td></tr>
   <tr><td><a href="https://github.com/Zeyada0/adidas-sales-dashboard"><strong>Adidas Sales Dashboard</strong></a></td><td>Sales overview and product analysis</td><td>Power BI, DAX</td></tr>
-  <tr><td><a href="https://github.com/Zeyada0/portfolio"><strong>Portfolio</strong></a></td><td>Zeyad Ashraf - Data Analyst Portfolio</td><td>HTML</td></tr>
   <!-- FEATURED-PROJECTS:END -->
 </table>
 
