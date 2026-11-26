@@ -15,9 +15,9 @@
 
 <br>
 
-<a href="#user-content-featured"><img src="https://img.shields.io/badge/Projects-B8935A?style=flat" alt="Projects"></a>
-<a href="#user-content-certifications"><img src="https://img.shields.io/badge/Certifications-0F2540?style=flat" alt="Certifications"></a>
-<a href="mailto:zeazoashraf00@gmail.com"><img src="https://img.shields.io/badge/Contact-B8935A?style=flat" alt="Contact"></a>
+<a href="#user-content-featured"><img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@preview/profile-polish/assets/nav-projects.svg" alt="Projects"></a>
+<a href="#user-content-certifications"><img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@preview/profile-polish/assets/nav-certifications.svg" alt="Certifications"></a>
+<a href="mailto:zeazoashraf00@gmail.com"><img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@preview/profile-polish/assets/nav-contact.svg" alt="Contact"></a>
 
 </div>
 
@@ -129,14 +129,5 @@
   <img src="https://img.shields.io/badge/Cream-%23FAF6EE-FAF6EE?style=for-the-badge" alt="Cream">
   <img src="https://img.shields.io/badge/Dark-%230B1727-0B1727?style=for-the-badge" alt="Dark">
 </p>
-
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@preview/profile-polish/assets/divider.svg" alt="" width="100%"></p>
-
-<h2 align="center">The Data Cycle</h2>
-
-<div align="center">
-  <h1>😵‍💫 ➜ 🧹 ➜ 😌 ➜ 📊 ➜ 🤩</h1>
-  <p><strong>Messy data ➜ Cleaning ➜ Clean data ➜ Dashboard ➜ Insight!</strong></p>
-</div>
 
 <img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@preview/profile-polish/assets/footer.svg" alt="Thanks for visiting" width="100%">
