@@ -1,0 +1,38 @@
+<svg width="1000" height="260" viewBox="0 0 1000 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0B1727"/>
+      <stop offset="55%" stop-color="#0F2540"/>
+      <stop offset="100%" stop-color="#1D3252"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#B8935A"/>
+      <stop offset="100%" stop-color="#D9BD8A"/>
+    </linearGradient>
+    <style>
+      .title { font-size: 58px; font-weight: 700; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #ffffff; }
+      .desc { font-size: 24px; font-weight: 500; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #D9BD8A; }
+      .title, .desc { animation: fadeIn 1.2s ease-in-out forwards; }
+      @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+    </style>
+  </defs>
+  <rect width="1000" height="260" fill="url(#bg)"/>
+  <path fill="url(#gold)" opacity="0.25">
+    <animate attributeName="d" dur="18s" repeatCount="indefinite" calcMode="spline"
+      keyTimes="0;0.333;0.667;1" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+      values="M0 260L 0 205Q 250 175 500 205T 1000 190L 1000 260 Z;
+              M0 260L 0 190Q 250 220 500 190T 1000 210L 1000 260 Z;
+              M0 260L 0 215Q 250 185 500 215T 1000 185L 1000 260 Z;
+              M0 260L 0 205Q 250 175 500 205T 1000 190L 1000 260 Z"/>
+  </path>
+  <path fill="url(#gold)" opacity="0.45">
+    <animate attributeName="d" dur="18s" repeatCount="indefinite" calcMode="spline" begin="-9s"
+      keyTimes="0;0.333;0.667;1" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+      values="M0 260L 0 225Q 250 195 500 225T 1000 210L 1000 260 Z;
+              M0 260L 0 210Q 250 240 500 210T 1000 230L 1000 260 Z;
+              M0 260L 0 235Q 250 205 500 235T 1000 205L 1000 260 Z;
+              M0 260L 0 225Q 250 195 500 225T 1000 210L 1000 260 Z"/>
+  </path>
+  <text x="50%" y="40%" text-anchor="middle" dominant-baseline="middle" class="title">Zeyad Ashraf</text>
+  <text x="50%" y="60%" text-anchor="middle" dominant-baseline="middle" class="desc">Data Analyst | MIS Student</text>
+</svg>
