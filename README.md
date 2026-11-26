@@ -6,6 +6,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=B8935A&center=true&vCenter=true&width=600&lines=Turning+data+into+business+insights;Building+Power+BI+dashboards;Cleaning+data+with+Power+Query;Querying+data+with+SQL;Currently+learning+Python" alt="Typing animation">
 
+<br>
+
 <img src="https://komarev.com/ghpvc/?username=Zeyada0&style=flat&color=B8935A&label=PROFILE+VIEWS" alt="Profile Views">
 <a href="https://www.linkedin.com/in/zeyad-ashraf-065794371"><img src="https://img.shields.io/badge/LinkedIn-Connect-0F2540?style=flat" alt="LinkedIn"></a>
 <a href="mailto:zeazoashraf00@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-B8935A?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
