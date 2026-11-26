@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Zeyada0/Zeyada0/main/header.svg" alt="Zeyad Ashraf - Data Analyst" width="100%">
+<img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@main/header.svg" alt="Zeyad Ashraf - Data Analyst" width="100%">
 
 <br>
 
