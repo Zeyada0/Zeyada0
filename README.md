@@ -56,13 +56,13 @@
 
 <h2 id="services">What I Can Do For You</h2>
 
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@preview-spotlight/assets/services-v2.svg" alt="Data cleaning, dashboard building, analysis and reporting, and business insights" width="100%"></p>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@main/assets/services-v2.svg" alt="Data cleaning, dashboard building, analysis and reporting, and business insights" width="100%"></p>
 
 <p align="center"><img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@main/assets/divider.svg" alt="" width="100%"></p>
 
 <h2 id="spotlight">Spotlight</h2>
 
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@preview-spotlight/assets/spotlight-v3.svg" alt="Project spotlight rotating through Service Insight Suite, Hyper Market, Salla Call Center and Adidas and Baladna dashboards with their key numbers" width="100%"></p>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@main/assets/spotlight-v3.svg" alt="Project spotlight rotating through Service Insight Suite, Hyper Market, Salla Call Center and Adidas and Baladna dashboards with their key numbers" width="100%"></p>
 
 <p align="center"><a href="#user-content-featured"><strong>Full case studies are in Featured Projects below &darr;</strong></a></p>
 
@@ -97,7 +97,7 @@
 
 <h2 id="building">Currently Learning</h2>
 
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@preview-spotlight/assets/python.svg" alt="Currently learning Python for data analysis" width="100%"></p>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@main/assets/python.svg" alt="Currently learning Python for data analysis" width="100%"></p>
 
 <p align="center"><img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@main/assets/divider.svg" alt="" width="100%"></p>
 
