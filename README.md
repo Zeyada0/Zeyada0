@@ -62,7 +62,7 @@
 
 <h2 id="spotlight">Spotlight</h2>
 
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@main/assets/spotlight-v3.svg" alt="Project spotlight rotating through Service Insight Suite, Hyper Market, Salla Call Center and Adidas and Baladna dashboards with their key numbers" width="100%"></p>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/Zeyada0/Zeyada0@main/assets/spotlight-v4.svg" alt="Project spotlight rotating through Service Insight Suite, Hyper Market, Salla Call Center and Adidas and Baladna dashboards with their key numbers" width="100%"></p>
 
 <p align="center"><a href="#user-content-featured"><strong>Full case studies are in Featured Projects below &darr;</strong></a></p>
 
